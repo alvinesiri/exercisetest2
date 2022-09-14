@@ -1,0 +1,10 @@
+2022-09-14 14:00:42.240  INFO 3444 --- [main] xercise2AccountStatementApplicationTests : Starting Exercise2AccountStatementApplicationTests using Java 18.0.2 on LB-ADH-DEV02 with PID 3444 (started by Afokeoghene.Esiri in C:\Users\afokeoghene.esiri\Desktop\exercisetest2)
+2022-09-14 14:00:42.241 DEBUG 3444 --- [main] xercise2AccountStatementApplicationTests : Running with Spring Boot v2.5.2, Spring v5.3.8
+2022-09-14 14:00:42.241  INFO 3444 --- [main] xercise2AccountStatementApplicationTests : The following profiles are active: dev
+2022-09-14 14:00:43.603  WARN 3444 --- [main] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-09-14 14:00:43.733  INFO 3444 --- [main] xercise2AccountStatementApplicationTests : Started Exercise2AccountStatementApplicationTests in 1.782 seconds (JVM running for 2.556)
+2022-09-14 14:03:28.553  INFO 49872 --- [main] com.exercise2.Exercise2ApplicationTests  : Starting Exercise2ApplicationTests using Java 18.0.2 on LB-ADH-DEV02 with PID 49872 (started by Afokeoghene.Esiri in C:\Users\afokeoghene.esiri\Desktop\exercisetest2)
+2022-09-14 14:03:28.554 DEBUG 49872 --- [main] com.exercise2.Exercise2ApplicationTests  : Running with Spring Boot v2.5.2, Spring v5.3.8
+2022-09-14 14:03:28.555  INFO 49872 --- [main] com.exercise2.Exercise2ApplicationTests  : The following profiles are active: dev
+2022-09-14 14:03:29.774  WARN 49872 --- [main] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-09-14 14:03:29.904  INFO 49872 --- [main] com.exercise2.Exercise2ApplicationTests  : Started Exercise2ApplicationTests in 1.634 seconds (JVM running for 2.497)
