@@ -1,0 +1,7 @@
+- Open solution using IntelliJ or prefered IDE
+- For this test we will be using IntelliJ
+- Open Exercise2ApplicationTests.java under src\test\java\com\exercise2
+- Under TestNetPayableAmount update testaffiliates, testcustomers and testemployees with your test data for affiliates, customers and employees respectively
+- Go to the TestNetPayableAmount method and update the Bill with your test parameters and ExpectedPayableAmount with what should be the expected NetPayableAmount
+- Save
+- Click the Run button beside the method TestNetPayableAmount. You can put a wrong amount for ExpectedPayableAmount to see that it fails.
